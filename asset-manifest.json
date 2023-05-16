@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TODO-PROJEC-TREACT/static/css/main.beef6503.css",
+    "main.js": "/TODO-PROJEC-TREACT/static/js/main.80df3845.js",
+    "static/js/787.b9329098.chunk.js": "/TODO-PROJEC-TREACT/static/js/787.b9329098.chunk.js",
+    "index.html": "/TODO-PROJEC-TREACT/index.html",
+    "main.beef6503.css.map": "/TODO-PROJEC-TREACT/static/css/main.beef6503.css.map",
+    "main.80df3845.js.map": "/TODO-PROJEC-TREACT/static/js/main.80df3845.js.map",
+    "787.b9329098.chunk.js.map": "/TODO-PROJEC-TREACT/static/js/787.b9329098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.80df3845.js"
+  ]
+}
